@@ -17,6 +17,7 @@
 - Análisis de datos de [Severidad de las quemas prescritas](https://serpam.github.io/fire_alcontar/)
 - Análisis de los efectos del fuego en diferentes características químicas del [suelo](https://serpam.github.io/soil_alcontar/)
 - Evolución del [NDVI de la vegetación tras las quemas prescritas](https://serpam.github.io/ndvi_alcontar/) 
+- [Comparación de datos de drone *vs.* campo](https://serpam.github.io/droneveg_alcontar/)
 
 ## Proyecto LIFEWatch-SUMHAL
 
