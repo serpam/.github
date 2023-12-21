@@ -24,7 +24,3 @@
 
 - Visualización de las [zonas potenciales de trabajo](https://serpam.github.io/sumhal_areas/) dentro del proyecto SUMHAL
 
-## Misceláneos
-
-- Visualización de [estaciones climáticas](https://serpam.github.io/estaciones_clima)
-
